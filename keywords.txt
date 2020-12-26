@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For Beer Cooler Project
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LED	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+flash	KEYWORD2
+off	KEYWORD2
+on	KEYWORD2
+init	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ON	LITERAL1
+OFF	LITERAL1
